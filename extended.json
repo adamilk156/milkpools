@@ -1,13 +1,13 @@
 {
   "info": {
-    "url_png_icon_64x64": "http(s) url to pool icon",
-    "url_png_logo": "http(s) url to pool logo",
-    "location": "Country, Continent",
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/adamilk156/milkpools/a1b7f6af9499dba68457abf0f942a8ded8049b4b/milk_icon-64.png",
+    "url_png_logo": "https://raw.githubusercontent.com/adamilk156/milkpools/a1b7f6af9499dba68457abf0f942a8ded8049b4b/milk_icon-64.png",
+    "location": "Vietnam, Asia",
     "social": {
       "twitter_handle": "",
       "telegram_handle": "",
       "facebook_handle": "",
-      "youtube_handle": "",
+      "youtube_handle": "https://www.youtube.com/@adamilk2024",
       "twitch_handle": "",
       "discord_handle": "",
       "github_handle": ""
@@ -25,15 +25,13 @@
       "server": "",
       "company": ""
     },
-    "rss": "http(s) url to valid RSS feed"
+    "rss": ""
   },
   "telegram-admin-handle": [
     ""
   ],
   "my-pool-ids": [
-    "2418ecaae0488bb393a33d4d922aeeb0a7eb7d1f370c158767c13f02"
+    "your_pool_id_here"
   ],
-  "when-satured-then-recommend": [
-    "2418ecaae0488bb393a33d4d922aeeb0a7eb7d1f370c158767c13f02"
-  ]
+  "when-satured-then-recommend": []
 }
