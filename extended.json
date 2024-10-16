@@ -32,7 +32,9 @@
     ""
   ],
   "my-pool-ids": [
-    "your_pool_id_here"
+    "bb9d2e9bcce284265e43d10c6e17261a08350d6379e109ded1d54611"
   ],
-  "when-satured-then-recommend": []
+  "when-satured-then-recommend": [
+    "bb9d2e9bcce284265e43d10c6e17261a08350d6379e109ded1d54611"
+  ]
 }
